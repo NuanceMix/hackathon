@@ -204,7 +204,7 @@ img {
 **/
 
 .step4 {
-    background: #7cc11e url(./resources/bgBanner_Web.png) no-repeat bottom center;
+    background: #00a5e3 url(./resources/bgBanner_Web.png) no-repeat bottom center;
     padding-top: 80px;
     text-align: center;
     min-height: 400px;
@@ -261,7 +261,7 @@ iframe {
     border-radius: 50%;
     margin-bottom: 1.5em;
     width: 120px;
-    height: auto;
+    height: 120px;
 }
 .step5 h3 {
     color: #034d74;

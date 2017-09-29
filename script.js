@@ -1,5 +1,5 @@
 var iframe = document.createElement("iframe");
-iframe.src = "http://199.245.57.4/embedded";
+iframe.src = "https://hack.labs.nuance.com/slack/embedded";
 
 $(document).ready(function() {
     $('#slack-invitation-iframe').append(iframe);

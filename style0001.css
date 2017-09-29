@@ -157,9 +157,9 @@ img {
 **/
 
 .step3 {
-    background: #7cc11e url(./resources/Raspi_Iso_Blue.png) no-repeat 8% 60px;
-    background-size: 50%;
-    background-position: 95% 60px;
+    background: #7cc11e url("data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTAwIDEwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGcgZGlzcGxheT0ibm9uZSI+PHJlY3QgeD0iLTQ1NC4yNDkiIHk9Ii01MTcuMjQ0IiBkaXNwbGF5PSJpbmxpbmUiIGZpbGw9IiNGRkZGRkYiIHdpZHRoPSIxMzQ1LjI3MyIgaGVpZ2h0PSIxMzM3LjU5MiIvPjwvZz48Zz48Zz48Zz48cGF0aCBkPSJNODMuODk4LDI5LjU0OHYtOS42MTZjMC04LjU4My02Ljk1OC0xNS41NDEtMTUuNTQxLTE1LjU0MUg0NS44NTRjLTguNTgzLDAtMTUuNTQxLDYuOTU4LTE1LjU0MSwxNS41NDF2MzUuNDg0ICAgICBjMCwwLjgwOSwwLjY2MiwxLjM0NCwxLjM1MSwxLjM0NGMwLjMzLDAsMC42NjYtMC4xMjIsMC45MzktMC4zOTZsMTAuODgzLTEwLjg4M2MwLjI1Mi0wLjI1MiwwLjU5My0wLjM5MywwLjk0OS0wLjM5M2gyMy45MjMgICAgIEM3Ni45NDEsNDUuMDg4LDgzLjg5OCwzOC4xMyw4My44OTgsMjkuNTQ4eiBNNjguMzU4LDQyLjA4OEg0NC40MzVjLTEuMTYsMC0yLjI1LDAuNDUyLTMuMDcsMS4yNzJsLTguMDUyLDguMDUydi0zMS40OCAgICAgYzAtNi45MTUsNS42MjYtMTIuNTQxLDEyLjU0MS0xMi41NDFoMjIuNTA0YzYuOTE1LDAsMTIuNTQxLDUuNjI2LDEyLjU0MSwxMi41NDF2OS42MTYgICAgIEM4MC44OTgsMzYuNDYyLDc1LjI3Myw0Mi4wODgsNjguMzU4LDQyLjA4OHoiLz48Y2lyY2xlIGN4PSI0NS4wMiIgY3k9IjI1Ljc5NiIgcj0iMy4xMDUiLz48Y2lyY2xlIGN4PSI1Ny4xMDYiIGN5PSIyNS43OTYiIHI9IjMuMTA1Ii8+PGNpcmNsZSBjeD0iNjkuMTkyIiBjeT0iMjUuNzk2IiByPSIzLjEwNSIvPjwvZz48cGF0aCBkPSJNNzAuMDk3LDk1LjYwOVY4My4yOThoNC43MTVjMy4xMjMsMCw1LjY2My0yLjU5Nyw1LjY2My01Ljc4OXYtNi45MTJjMi45NTYtMC42OTksNS4xNjktMy40MTEsNS4xNjktNi42NDkgICAgYzAtMi4yOTgtMS4xMjMtNC40MjUtMy4wMDQtNS42OTFsLTEuNjc1LDIuNDg5YzEuMDUxLDAuNzA4LDEuNjc5LDEuOTA0LDEuNjc5LDMuMjAyYzAsMi4xMTEtMS42NDUsMy44MjktMy42NjcsMy44MjkgICAgYy0yLjAyNSwwLTMuNjcyLTEuNzE4LTMuNjcyLTMuODI5YzAtMS4yOTcsMC42MjgtMi40OTQsMS42NzktMy4yMDJsLTEuNjc1LTIuNDg5Yy0xLjg4MSwxLjI2Ni0zLjAwNCwzLjM5My0zLjAwNCw1LjY5MSAgICBjMCwzLjIzNiwyLjIxMyw1Ljk0OCw1LjE2OSw2LjY0OHY2LjkxM2MwLDEuNTM4LTEuMTk0LDIuNzg5LTIuNjYzLDIuNzg5aC00LjcxNVY3NS40NWMwLTExLjA4Mi05LjAxNi0yMC4wOTctMjAuMDk3LTIwLjA5NyAgICBTMjkuOTAzLDY0LjM2OCwyOS45MDMsNzUuNDV2NC44NDloLTQuNzE1Yy0xLjQ2OCwwLTIuNjYyLTEuMjUxLTIuNjYyLTIuNzg5di02LjkxM2MyLjk1Ny0wLjcsNS4xNjktMy40MTIsNS4xNjktNi42NDggICAgYzAtMi4yOTctMS4xMjQtNC40MjUtMy4wMDUtNS42OTFsLTEuNjc1LDIuNDg5YzEuMDUyLDAuNzA4LDEuNjgsMS45MDQsMS42OCwzLjIwMmMwLDIuMTExLTEuNjQ3LDMuODI5LTMuNjcyLDMuODI5ICAgIGMtMi4wMjEsMC0zLjY2Ny0xLjcxOC0zLjY2Ny0zLjgyOWMwLTEuMjk3LDAuNjI4LTIuNDk0LDEuNjc5LTMuMjAybC0xLjY3NS0yLjQ4OWMtMS44ODEsMS4yNjYtMy4wMDQsMy4zOTMtMy4wMDQsNS42OTEgICAgYzAsMy4yMzgsMi4yMTMsNS45NTEsNS4xNjksNi42NDl2Ni45MTJjMCwzLjE5MiwyLjU0LDUuNzg5LDUuNjYyLDUuNzg5aDQuNzE1djEyLjMxMUg3MC4wOTd6IE0zMi45MDMsNzUuNDUgICAgYzAtOS40MjcsNy42Ny0xNy4wOTcsMTcuMDk3LTE3LjA5N3MxNy4wOTcsNy42NywxNy4wOTcsMTcuMDk3djE3LjE2SDMyLjkwM1Y3NS40NXoiLz48cGF0aCBkPSJNNDcuMDI2LDY3LjgzM2gtOC4wOTR2OC4wOTVoOC4wOTRWNjcuODMzeiBNNDQuMzI4LDczLjIzSDQxLjYzdi0yLjY5OGgyLjY5OFY3My4yM3oiLz48cGF0aCBkPSJNNjEuMDY4LDY3LjgzM2gtOC4wOTV2OC4wOTVoOC4wOTVWNjcuODMzeiBNNTguMzcsNzMuMjNoLTIuNjk4di0yLjY5OGgyLjY5OFY3My4yM3oiLz48cmVjdCB4PSI1Ny40NzgiIHk9IjgwLjI2IiB3aWR0aD0iMy43MDQiIGhlaWdodD0iMy45MDgiLz48cmVjdCB4PSI1MS4yNTgiIHk9IjgwLjI2IiB3aWR0aD0iMy43MDQiIGhlaWdodD0iMy45MDgiLz48cmVjdCB4PSI0NS4wMzgiIHk9IjgwLjI2IiB3aWR0aD0iMy43MDQiIGhlaWdodD0iMy45MDgiLz48cmVjdCB4PSIzOC44MTkiIHk9IjgwLjI2IiB3aWR0aD0iMy43MDQiIGhlaWdodD0iMy45MDgiLz48L2c+PC9nPjwvc3ZnPg==") no-repeat 8% 60px;
+    background-size: 30%;
+    background-position: 95% 20px;
     color: #FFFFFF;
     height: auto;
     min-height: 400px;
@@ -173,27 +173,45 @@ img {
     line-height: 1.5em;
 }
 
+.step3 .artist-name {
+    font-size: 12px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+@media screen and (max-width: 1300px) {
+    .step3 {
+        background-position: 110% 10px;
+        background-size: 40%;
+    }
+}
+@media screen and (max-width: 1100px) {
+    .step3 {
+        background-position: 110% 10px;
+        background-size: 40%;
+    }
+}
 @media screen and (max-width: 998px) {
     .step3 {
-        background-position: 110% 80px;
-        background-size: 60%;
+        background-position: 110% 10px;
+        background-size: 50%;
     }
 }
 @media screen and (max-width: 767px) {
     .step3 {
-        background-position: 130% 180px;
-        background-size: 65%;
+        background-position: 170% 20px;
+        background-size: 75%;
     }
 }
 @media screen and (max-width: 550px) {
     .step3 {
-        background-position: 240px 140px;
-        background-size: 100%;
+        background-position: 240px 40px;
+        background-size: 80%;
     }
 }
 @media only screen and (max-width: 480px) {
     .step3 {
-        background-position: 220px 200px;
+        background-position: 220px 40px;
         background-size: 100%;
     }
 }
